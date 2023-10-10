@@ -1,25 +1,22 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
+    START_TXT = """<b>ʜᴇʟʟᴏ {}
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇs , sᴇʀɪᴇs & ᴀɴɪᴍᴇ
+
+ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ 😍</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
+Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs."""
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
-
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/KUSHALHK>♀️Oᗯᑎᗴᖇ♀️</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TG_UPDATES1>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ : {}</b>
+<b>✯ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/DANGER1753>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>
+<b>✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟸.𝟶.𝟼𝟸 [sᴛᴀʙʟᴇ]</b> 
+<b>✯ sᴇʀᴠᴇʀ : ᴠᴘs </b>"""
 
     SOURCE_TXT = """
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>ᴛʜɪs ʙᴏᴛ ɪs ɴᴏᴛ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ.
 
-contact developer give source code 😊
-
-: <a href=https://github.com/Kushalhk/TG_BOTZ/tree/main>♀️ 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 ♀️</a></b>"""
+ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғᴏʀ ᴛʜᴇ ʀᴇᴘᴏ ᴏʀ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 😊</b>"""
                   
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -74,9 +71,7 @@ Do as you wish with telegra.ph module!
 <b>NOTE:</b>
 
 • This Command Is Available in goups and pms
-• This Command Can be used by everyone
-
-• Contact Owner: @KUSHALHK"""
+• This Command Can be used by everyone"""
 
     SONG_TXT = """<b>ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴏᴅᴜʟᴇ</b>
     
@@ -112,9 +107,7 @@ Do as you wish with telegra.ph module!
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
 <code>/song kantara</code>
 <code>/mp4 https://youtu.be/*******</code>
-<code>/video https://youtu.be/*****</code>  
-
-• Owner: @KUSHALHK"""
+<code>/video https://youtu.be/*****</code>"""
 
     KANG_TXT = """
 𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐰𝐧 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐀𝐧𝐝 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐏𝐚𝐜𝐤
@@ -239,7 +232,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TG_UPDATES1/336> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/TheInsomniacsClub> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -290,14 +283,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """ 
-<b>══════════════════
-🗂 {file_name}
-═══════════════════ 
-𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/TG_LINKS_CHANNEL">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
-╚══════════════════╝</b>"""
+    CAPTION = """<b> {file_name} 
+
+@SMAC_ARENA</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -338,9 +326,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)
-"""
+    LOGO = """TheInsomniacsClub"""
