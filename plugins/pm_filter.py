@@ -1405,23 +1405,23 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('🛡 FIʟᴛᴇʀs 🛡', callback_data='filters'),
-            InlineKeyboardButton('🗂 Fɪʟᴇ Sᴛᴏʀᴇ 🗂', callback_data='store_file')
+            InlineKeyboardButton('FIʟᴛᴇʀs', callback_data='filters'),
+            InlineKeyboardButton('Fɪʟᴇ Sᴛᴏʀᴇ', callback_data='store_file')
         ], [
-            InlineKeyboardButton('♂️ Cᴏɴɴᴇᴄᴛɪᴏɴ ♂️', callback_data='coct'),
-            InlineKeyboardButton('🧊 Exᴛʀᴀ Mᴏᴅs 🧊', callback_data='extra')
+            InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
+            InlineKeyboardButton('Exᴛʀᴀ Mᴏᴅs', callback_data='extra')
         ], [
-            InlineKeyboardButton('📝 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐏𝐇 ✏️', callback_data='tele'),
-            InlineKeyboardButton('🎵 𝐌𝐔𝐒𝐈𝐂 🎵', callback_data='song'), 
+            InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='tele'),
+            InlineKeyboardButton('Mᴜsɪᴄ', callback_data='song'), 
             InlineKeyboardButton('ᴜʀʟ_sʜᴏʀᴛ', callback_data='urlshort')
         ], [
-            InlineKeyboardButton('♻️ ꜱᴛɪᴄᴋᴇʀ ♻️', callback_data='sticker'), 
-            InlineKeyboardButton('❤‍🔥 ᴋᴀɴɢ ❤‍🔥', callback_data='kang') 
+            InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ', callback_data='sticker'), 
+            InlineKeyboardButton('ᴋᴀɴɢ', callback_data='kang') 
         ], [
-            InlineKeyboardButton('⚖️ 𝐑𝐔𝐋𝐄𝐒 ⚖️', callback_data='rule'), 
+            InlineKeyboardButton('ʀᴜʟᴇs', callback_data='rule'), 
         ], [
-            InlineKeyboardButton('💠 Sᴛᴀᴛᴜs 💠', callback_data='stats'), 
-            InlineKeyboardButton('🏚 𝐇𝐎𝐌𝐄 🏚', callback_data='start')
+            InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats'), 
+            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
